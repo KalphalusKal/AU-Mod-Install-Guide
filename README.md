@@ -1,7 +1,8 @@
 # Kals Mod Install Guide
 Guides installing the mods I use which are currently:
 Town of Us Mira
-Submerged
+<!--Submerged-->
+<!--ChaosTokens-->
 LevelImposter
 
 This guide assumes your on Windows or Linux
@@ -43,7 +44,9 @@ In this case, we will use the version of BepInEx that comes with Town of Us Mira
 To install Town of Us Mira, download the ZIP file labeled with the platform your modding from [here (https://github.com/AU-Avengers/TOU-Mira/releases/tag/v1.3.1-4)](https://github.com/AU-Avengers/TOU-Mira/releases/tag/v1.3.1-4)
 When its downloaded, open the ZIP. You will see a folder named something like "TouMira-v1.3.1-4-(architecture)-(platforms)". Open that folder, and move/copy all its contents into the Among Us folder thats in the file browser. 
 
-Once thats done, download the file "submerged.dll" from [here (https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22)](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22). Your browser might warb about it being potentially dangerous, thats because it is a type of executable, you can review its code if you dont trust it. Go to the file browser window, open the "BepInEx" folder, then open the "plugins" folder, and put "submerged.dll" in the folder.
+<!--Once thats done, download the file "submerged.dll" from [here (https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22)](https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22). Your browser might warb about it being potentially dangerous, thats because it is a type of executable, you can review its code if you dont trust it. Go to the file browser window, open the "BepInEx" folder, then open the "plugins" folder, and put "submerged.dll" in the folder.-->
+
+<!--Once thats done, download the file "ChaosTokens.dll" from [here ([https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22](https://github.com/xChipseq/ChaosTokens/releases/tag/1.1.3))]([https://github.com/SubmergedAmongUs/Submerged/releases/tag/v2025.10.22](https://github.com/xChipseq/ChaosTokens/releases/tag/1.1.3)). Your browser might warb about it being potentially dangerous, thats because it is a type of executable, you can review its code if you dont trust it. Go to the file browser window, open the "BepInEx" folder, then open the "plugins" folder, and put "ChaosTokens.dll" in the folder.-->
 
 Finally, download this GitHub actions build of LevelImposter from [here (https://github.com/DigiWorm0/LevelImposter/actions/runs/18235251840)](https://github.com/DigiWorm0/LevelImposter/actions/runs/18235251840), open the zip, and put LevelImposter.dll into the "plugins" folder. If the artifact expired or you cant access the action page, you can download a mirror that I put up [here (https://github.com/KalphalusKal/AU-Mod-Install-Guide/blob/main/.files/mods/LevelImposter.10a38d6.zip)](https://github.com/KalphalusKal/AU-Mod-Install-Guide/blob/main/.files/mods/LevelImposter.10a38d6.zip)
 
